@@ -1,0 +1,21 @@
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv/
+
+# Fichiers spécifiques à l'OS (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration de l'éditeur (VS Code, PyCharm...)
+.vscode/
+.idea/
+
+*pth
+*.pt
